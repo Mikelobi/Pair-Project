@@ -1,0 +1,28 @@
+body {
+  box-sizing: border-box;
+  margin: 15px;
+}
+
+main {
+  padding: 20px;
+  width: 400px;
+}
+
+section {
+  padding: 20px;
+}
+
+ul {
+   padding: 20px 20px 42px;
+   list-style-type: none; 
+}
+
+ul li {
+  float: left;
+  margin: 5px;
+  background: rgb(237, 237, 243);
+  color: blue;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 10px
+}
